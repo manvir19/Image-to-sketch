@@ -1,2 +1,2 @@
 # Image-to-sketch
-image to gray to inveterted to blur to divide to sketch
+image  ->  gray scale  ->  inverted image  ->  blurred image  ->  inverted blurred image  ->  divide gray scale with inverted blurred  ->  sketch
